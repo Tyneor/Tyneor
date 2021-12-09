@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tyneor
+## 👋 Hi, I’m @Tyneor
 
 <!---
 - 👀 I’m interested in ...
