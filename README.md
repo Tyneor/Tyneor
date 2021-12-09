@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Tyneor
+## 👋 Salut, moi c'est Etienne
 
 <!---
 - 👀 I’m interested in ...
